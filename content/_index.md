@@ -34,6 +34,8 @@ Antonio Kam
 
 Welcome! I hope you all have a great time this semester!
 
+Feel free to reach out to me at any point in time at my email address (see above) - I'm happy to talk about anything!
+
 ---
 
 ## Slides
