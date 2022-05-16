@@ -1,0 +1,10 @@
+baseURL = 'https://teaching.rouxl.es/'
+languageCode = 'en-us'
+title = 'Teaching'
+theme = "hugo-book"
+publishDir = "docs"
+googleAnalyticsID = "G-QB72X4S5RZ" 
+
+[params]
+
+    BookTheme = 'dark'

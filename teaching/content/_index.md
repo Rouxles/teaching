@@ -1,0 +1,54 @@
+---
+title: "Home"
+date: 2022-05-16T10:29:10-07:00
+draft: false
+---
+
+# Teaching
+
+## Me
+
+{{< hint info >}}
+Antonio Kam
+
+`anto [at] berkeley [dot] edu`
+
+(Summer 2022 CS 61A uGSI)
+
+- Labs:
+- Discussions:
+{{< /hint >}}
+
+---
+
+## Important Links
+
+- Attendance
+- [Anonymous Feedback Form](https://forms.gle/JjzBpShSxZGVgQ1T7)
+- [Course Website](https://cs61a.org)
+- Piazza
+
+---
+
+## Announcements
+
+Welcome! I hope you all have a great time this semester!
+
+---
+
+## Slides
+
+All the slides below are best viewed in the `html` form, but a `pdf` file will also be provided. If something does not have a link, it either doesn't exist yet, or I haven't updated the site. 
+
+### Discussion 1
+
+- [Slides (`html`)](https://slides.rouxl.es/disc01)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/disc01.pdf)
+- Solutions
+
+### Discussion 0
+
+- [Slides (`html`)](https://slides.rouxl.es/disc00)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/disc00.pdf)
+- Solutions 
+
