@@ -4,8 +4,6 @@ date: 2022-05-16T10:29:10-07:00
 draft: false
 ---
 
-# Teaching
-
 ## Me
 
 {{< hint info >}}

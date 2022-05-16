@@ -2,9 +2,11 @@ baseURL = 'https://teaching.rouxl.es/'
 languageCode = 'en-us'
 title = 'Teaching'
 theme = "hugo-book"
+enableGitInfo = true
 publishDir = "docs"
-googleAnalyticsID = "G-QB72X4S5RZ" 
 
 [params]
 
-    BookTheme = 'dark'
+    BookTheme = 'auto'
+    BookRepo = 'https://github.com/Rouxles/teaching'
+    BookSearch = false
