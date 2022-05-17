@@ -7,11 +7,9 @@ draft: false
 ## Me
 
 {{< hint info >}}
-Antonio Kam
+**Antonio Kam (`anto [at] berkeley [dot] edu`)**
 
-`anto [at] berkeley [dot] edu`
-
-(Summer 2022 CS 61A uGSI)
+Summer 2022 CS 61A uGSI
 
 - Labs:
 - Discussions:
