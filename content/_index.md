@@ -40,13 +40,13 @@ All the slides below are best viewed in the `html` form, but a `pdf` file will a
 
 ### Discussion 1
 
-- [Slides (`html`)](https://slides.rouxl.es/disc01)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/disc01.pdf)
+- [Slides (`html`)](https://slides.rouxl.es/su22/disc01)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc01.pdf)
 - Solutions
 
 ### Discussion 0
 
 - [Slides (`html`)](https://slides.rouxl.es/disc00)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/disc00.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc00.pdf)
 - Solutions 
 
