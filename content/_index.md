@@ -46,7 +46,7 @@ All the slides below are best viewed in the `html` form, but a `pdf` file will a
 
 ### Discussion 0
 
-- [Slides (`html`)](https://slides.rouxl.es/disc00)
+- [Slides (`html`)](https://slides.rouxl.es/su22/disc00)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc00.pdf)
 - Solutions 
 
