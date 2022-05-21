@@ -1,4 +1,4 @@
-baseURL = 'https://teaching.rouxl.es/'
+baseURL = 'https://rouxles.github.io/decal-readings'
 languageCode = 'en-us'
 title = 'Teaching'
 theme = "hugo-book"
