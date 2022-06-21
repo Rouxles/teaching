@@ -23,7 +23,7 @@ Summer 2022 CS 61A uGSI
 - [Lab Attendance](https://links.rouxl.es/lab)
 - [Anonymous Feedback Form](https://links.rouxl.es/feedback)
 - [Course Website](https://cs61a.org)
-- Piazza
+- [Piazza](https://piazza.com/class/l3b5tbgw9il4kj)
 
 ---
 
