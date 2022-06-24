@@ -45,7 +45,7 @@ All the slides below are best viewed in the `html` form, but a `pdf` file will a
 
 - [Slides (`html`)](https://slides.rouxl.es/su22/disc01)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc01.pdf)
-- Solutions
+- [Solutions](https://cs61a.org/disc/sol-disc01/)
 
 ### [Discussion 0](https://cs61a.org/disc/disc00/)
 
