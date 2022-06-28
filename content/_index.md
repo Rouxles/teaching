@@ -41,7 +41,7 @@ Feel free to reach out to me at any point in time at my email address (see above
 
 All the slides below are best viewed in the `html` form, but a `pdf` file will also be provided. If something does not have a link, it either doesn't exist yet, or I haven't updated the site. 
 
-### [Discussion 02](https://cs61a.org/disc/disc01/)
+### [Discussion 02](https://cs61a.org/disc/disc02/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su22/disc02)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc02.pdf)
