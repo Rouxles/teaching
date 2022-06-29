@@ -13,7 +13,7 @@ Summer 2022 CS 61A uGSI
 
 - Labs: `M, W` | `9:30 AM - 11:00 AM` | `Soda 271`
 - Discussions: `Tu, Th` | `9:30 AM - 11:00 AM` | `Wheeler 130`
-- OH: `Tu 1:00 PM - 2:00 PM`, `W 3:00 PM - 5:00 PM` | `TBD`
+- OH: `Tu 1:00 PM - 2:00 PM`, `W 3:00 PM - 5:00 PM` | `Cory 521`
 {{< /hint >}}
 
 
