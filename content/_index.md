@@ -16,7 +16,6 @@ Summer 2022 CS 61A uGSI
 - OH: `Tu 1:00 PM - 2:00 PM`, `W 3:00 PM - 5:00 PM` | `Cory 521`
 {{< /hint >}}
 
-
 ---
 
 ## Important Links
@@ -29,11 +28,9 @@ Summer 2022 CS 61A uGSI
 
 ---
 
-## Announcements
+## Resources
 
-Welcome! I hope you all have a great time this semester!
-
-Feel free to reach out to me at any point in time at my email address (see above) - I'm happy to talk about anything!
+- [Recursion](/docs/resources/su22/recursion)
 
 ---
 
@@ -46,7 +43,7 @@ All the slides below are best viewed in the `html` form, but a `pdf` file will a
 - [Slides (`html`)](https://slides.rouxl.es/su22/disc03)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc03.pdf)
 - [Slides (`html`; extended)](https://slides.rouxl.es/archive/su22/disc03)
-- Solutions
+- [Solutions](https://cs61a.org/disc/sol-disc03/)
 
 ### [Discussion 02](https://cs61a.org/disc/disc02/)
 
