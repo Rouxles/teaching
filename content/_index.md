@@ -39,11 +39,17 @@ Summer 2022 CS 61A uGSI
 
 All the slides below are best viewed in the `html` form, but a `pdf` file will also be provided. If something does not have a link, it either doesn't exist yet, or I haven't updated the site. 
 
+### [Discussion 10](https://cs61a.org/disc/disc10/)
+
+- [Slides (`html`)](https://slides.rouxl.es/su22/disc10)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc10.pdf)
+- Solutions
+
 ### [Discussion 09](https://cs61a.org/disc/disc09/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su22/disc09)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc09.pdf)
-- Solutions
+- [Solutions](https://cs61a.org/disc/sol-disc09/)
 
 ### [Discussion 08](https://cs61a.org/disc/disc08/)
 
