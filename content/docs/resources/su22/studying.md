@@ -1,3 +1,14 @@
+---
+title: "Studying"
+weight: 1
+# bookFlatSection: false
+# bookToc: true
+bookHidden: true
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
 # Studying
 
 {{<hint info>}}
