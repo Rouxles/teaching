@@ -24,7 +24,7 @@ Fall 2022 CS 61A uGSI
 - [Lab Attendance](https://links.rouxl.es/lab)
 - [Anonymous Feedback Form](https://links.rouxl.es/feedback)
 - [Course Website](https://cs61a.org)
-- Piazza (Will be updated once ready)
+- [Ed](https://edstem.org/us/courses/25379/discussion/)
 
 ---
 
