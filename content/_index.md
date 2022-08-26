@@ -11,8 +11,8 @@ draft: false
 
 Fall 2022 CS 61A uGSI
 
-- Labs: `TBD`
-- Discussions: `TBD`
+- Labs: `Tu` | `3:30 PM - 5:00 PM` | `Soda 310`
+- Discussions: `F` | `8:30 AM - 10:00 AM` | `Soda 320`
 - OH: `TBD`
 {{< /hint >}}
 
