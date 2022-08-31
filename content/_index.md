@@ -22,6 +22,9 @@ Fall 2022 CS 61A uGSI
 
 - [Discussion Attendance](https://links.rouxl.es/disc)
 - [Lab Attendance](https://links.rouxl.es/lab)
+- [Pre-lab Checkoff Form](https://links.rouxl.es/finished)
+  - Fill this in before the lab section to get attendance credit
+- [Lab Mini-lecture Notes](https://drive.google.com/drive/folders/1N6JMX-oMz6hF0DDn2WBWErEeUMKWAd5G?usp=sharing)
 - [Anonymous Feedback Form](https://links.rouxl.es/feedback)
 - [Course Website](https://cs61a.org)
 - [Ed](https://edstem.org/us/courses/25379/discussion/)
