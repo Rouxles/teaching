@@ -30,12 +30,18 @@ Spring 2023 CS 61A uGSI
 
 ## Slides
 
-All the slides below are best viewed in the `html` form, but a `pdf` file will also be provided. If something does not have a link, it either doesn't exist yet, or I haven't updated the site. 
+All the slides below can be viewed either in `html` form or `pdf`. I project my slides in `html` most of the time, but either option works perfectly fine.
+
+### [Discussion 03](https://cs61a.org/disc/disc03/)
+
+- [Slides (`html`)](https://slides.rouxl.es/sp23/disc03)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc03.pdf)
 
 ### [Discussion 02](https://cs61a.org/disc/disc02/)
 
 - [Slides (`html`)](https://slides.rouxl.es/sp23/disc02)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc02.pdf)
+- [Solutions](https://cs61a.org/disc/sol-disc02/)
 
 ### [Discussion 01](https://cs61a.org/disc/disc01/)
 
