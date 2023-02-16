@@ -22,6 +22,7 @@ Spring 2023 CS 61A uGSI
 
 - [Discussion Attendance](https://links.rouxl.es/disc)
 - [Lab Attendance](https://links.rouxl.es/lab)
+- [Lab Mini-lecture Notes](https://drive.google.com/drive/folders/1StTFFJqtDUpYNe78o7_rrBJV9x8bxJ1g?usp=sharing)
 - [Anonymous Feedback Form](https://links.rouxl.es/feedback)
 - [Course Website](https://cs61a.org)
 - [Ed](https://edstem.org/us/courses/34756/discussion/)
@@ -32,10 +33,17 @@ Spring 2023 CS 61A uGSI
 
 All the slides below can be viewed either in `html` form or `pdf`. I project my slides in `html` most of the time, but either option works perfectly fine.
 
+### [Discussion 04](https://cs61a.org/disc/disc04/)
+
+- [Slides (`html`)](https://slides.rouxl.es/sp23/disc04)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc04.pdf)
+- [Solutions](https://cs61a.org/disc/sol-disc04/)
+
 ### [Discussion 03](https://cs61a.org/disc/disc03/)
 
 - [Slides (`html`)](https://slides.rouxl.es/sp23/disc03)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc03.pdf)
+- [Solutions](https://cs61a.org/disc/sol-disc03/)
 
 ### [Discussion 02](https://cs61a.org/disc/disc02/)
 
