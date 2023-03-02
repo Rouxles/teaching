@@ -33,11 +33,17 @@ Spring 2023 CS 61A uGSI
 
 All the slides below can be viewed either in `html` form or `pdf`. I project my slides in `html` most of the time, but either option works perfectly fine.
 
+### [Discussion 05](https://cs61a.org/disc/disc06/)
+
+- [Slides (`html`)](https://slides.rouxl.es/sp23/disc06)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc06.pdf)
+- Solutions
+
 ### [Discussion 05](https://cs61a.org/disc/disc05/)
 
 - [Slides (`html`)](https://slides.rouxl.es/sp23/disc05)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc05.pdf)
-- Solutions
+- [Solutions](https://cs61a.org/disc/sol-disc05/)
 
 ### [Discussion 04](https://cs61a.org/disc/disc04/)
 
