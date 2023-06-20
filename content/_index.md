@@ -1,7 +1,12 @@
 ---
-title: "Home"
-date: 2022-05-16T10:29:10-07:00
-draft: false
+title: "Summer 2022"
+weight: 1
+# bookFlatSection: false
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
 ---
 
 ## About Me
@@ -9,11 +14,10 @@ draft: false
 {{< hint info >}}
 **Antonio Kam (`anto [at] berkeley [dot] edu`)**
 
-Spring 2023 CS 61A uGSI
+Summer 2023 CS 61A uGSI
 
-- Labs: `M` | `6:30 PM - 8:00 PM` | `Soda 271`
-- Discussions: `W` | `6:30 PM - 8:00 PM` | `Soda 405`
-- OH: `TBD`
+- Labs: `M, W` | `9:30 AM - 11:00 AM` | `Soda 271`
+- Discussions: `Tu, Th` | `9:30 AM - 11:00 AM` | `Soda 320`
 {{< /hint >}}
 
 ---
@@ -22,90 +26,20 @@ Spring 2023 CS 61A uGSI
 
 - [Discussion Attendance](https://links.rouxl.es/disc)
 - [Lab Attendance](https://links.rouxl.es/lab)
-- [Lab Mini-lecture Notes](https://drive.google.com/drive/folders/1StTFFJqtDUpYNe78o7_rrBJV9x8bxJ1g?usp=sharing)
 - [Anonymous Feedback Form](https://links.rouxl.es/feedback)
 - [Course Website](https://cs61a.org)
-- [Ed](https://edstem.org/us/courses/34756/discussion/)
+- [Ed](https://edstem.org/us/courses/40197/discussion/)
 
 ---
 
-## Slides
+## Resources
 
-All the slides below can be viewed either in `html` form or `pdf`. I project my slides in `html` most of the time, but either option works perfectly fine.
+- [Recursion](/docs/resources/su22/recursion)
+- [Studying Tips](/docs/resources/su22/studying)
 
-### [Discussion 13](https://cs61a.org/disc/disc13/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc13)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc13.pdf)
-- Solutions
-
-### [Discussion 12](https://cs61a.org/disc/disc12/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc12)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc12.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc12/)
-
-### [Discussion 11](https://cs61a.org/disc/disc11/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc11)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc11.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc11/)
-
-### [Discussion 09](https://cs61a.org/disc/disc09/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc09)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc09.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc09/)
-
-### [Discussion 08](https://cs61a.org/disc/disc08/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc08)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc08.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc08/)
-
-### [Discussion 07](https://cs61a.org/disc/disc07/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc07)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc07.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc07/)
-
-### [Discussion 06](https://cs61a.org/disc/disc06/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc06)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc06.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc06/)
-
-### [Discussion 05](https://cs61a.org/disc/disc05/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc05)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc05.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc05/)
-
-### [Discussion 04](https://cs61a.org/disc/disc04/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc04)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc04.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc04/)
-
-### [Discussion 03](https://cs61a.org/disc/disc03/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc03)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc03.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc03/)
-
-### [Discussion 02](https://cs61a.org/disc/disc02/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc02)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc02.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc02/)
-
-### [Discussion 01](https://cs61a.org/disc/disc01/)
-
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc01)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc01.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc01/)
+---
 
 ### [Discussion 00](https://cs61a.org/disc/disc00/)
 
-- [Slides (`html`)](https://slides.rouxl.es/sp23/disc00)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/sp23/disc00.pdf)
+- [Slides (`html`)](https://slides.rouxl.es/su23/disc00)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc00.pdf)
