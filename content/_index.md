@@ -1,5 +1,5 @@
 ---
-title: "Summer 2022"
+title: "Home"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
