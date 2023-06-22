@@ -41,7 +41,7 @@ Summer 2023 CS 61A uGSI
 
 ---
 
-### [Discussion 00](https://cs61a.org/disc/disc01/)
+### [Discussion 01](https://cs61a.org/disc/disc01/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc01)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc01.pdf)
