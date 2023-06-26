@@ -29,6 +29,7 @@ Summer 2023 CS 61A uGSI
 - [Pre-lab Checkoff Form](https://links.rouxl.es/finished)
   - Fill this in before the lab section to get attendance credit
 - [Anonymous Feedback Form](https://links.rouxl.es/feedback)
+- [Lab Notes](https://drive.google.com/drive/folders/1__2STbNgL21xgViz9Hspxj9TLcO6guiK)
 - [Course Website](https://cs61a.org)
 - [Ed](https://edstem.org/us/courses/40197/discussion/)
 
