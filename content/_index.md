@@ -40,11 +40,17 @@ Summer 2023 CS 61A uGSI
 - [Recursion](/docs/resources/su22/recursion)
 - [Studying Tips](/docs/resources/su22/studying)
 
+### [Discussion 06](https://cs61a.org/disc/disc06/)
+
+- [Slides (`html`)](https://slides.rouxl.es/su23/disc06)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc06.pdf)
+- Solutions
+
 ### [Discussion 05](https://cs61a.org/disc/disc05/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc05)
 - [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc05.pdf)
-- Solutions
+- [Solutions](https://cs61a.org/disc/sol-disc05/)
 
 ### [Discussion 04](https://cs61a.org/disc/disc04/)
 
