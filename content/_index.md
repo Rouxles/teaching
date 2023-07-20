@@ -43,46 +43,46 @@ Summer 2023 CS 61A uGSI
 ### [Discussion 07](https://cs61a.org/disc/disc07/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc07)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc07.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc07.pdf)
 - Solutions
 
 ### [Discussion 06](https://cs61a.org/disc/disc06/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc06)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc06.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc06.pdf)
 - [Solutions](https://cs61a.org/disc/sol-disc06/)
 
 ### [Discussion 05](https://cs61a.org/disc/disc05/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc05)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc05.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc05.pdf)
 - [Solutions](https://cs61a.org/disc/sol-disc05/)
 
 ### [Discussion 04](https://cs61a.org/disc/disc04/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc04)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc04.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc04.pdf)
 - [Solutions](https://cs61a.org/disc/sol-disc04/)
 
 ### [Discussion 03](https://cs61a.org/disc/disc03/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc03)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc03.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc03.pdf)
 - [Solutions](https://cs61a.org/disc/sol-disc03/)
 
 ### [Discussion 02](https://cs61a.org/disc/disc02/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc02)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc02.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc02.pdf)
 - [Solutions](https://cs61a.org/disc/sol-disc02/)
 
 ### [Discussion 01](https://cs61a.org/disc/disc01/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc01)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc01.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc01.pdf)
 - [Solutions](https://cs61a.org/disc/sol-disc01/)
 
 ### [Discussion 00](https://cs61a.org/disc/disc00/)
 
 - [Slides (`html`)](https://slides.rouxl.es/su23/disc00)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su22/disc00.pdf)
+- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc00.pdf)
