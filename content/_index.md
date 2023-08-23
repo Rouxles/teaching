@@ -29,7 +29,7 @@ Fall 2023 CS 61A uGSI
 - [Lab Notes](https://drive.google.com/drive/folders/1__2STbNgL21xgViz9Hspxj9TLcO6guiK)
 - [Course Website](https://cs61a.org)
 - [Ed](https://edstem.org/us/courses/40197/discussion/)
-- [Slides](links.rouxl.es/slides)
+- [Slides](https://links.rouxl.es/slides)
 
 ---
 
