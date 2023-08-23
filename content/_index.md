@@ -14,10 +14,7 @@ weight: 1
 {{< hint info >}}
 **Antonio Kam (`anto [at] berkeley [dot] edu`)**
 
-Summer 2023 CS 61A uGSI
-
-- Labs: `M, W` | `9:30 AM - 11:00 AM` | `Soda 271`
-- Discussions: `Tu, Th` | `9:30 AM - 11:00 AM` | `Soda 320`
+Fall 2023 CS 61A uGSI
 {{< /hint >}}
 
 ---
@@ -32,6 +29,7 @@ Summer 2023 CS 61A uGSI
 - [Lab Notes](https://drive.google.com/drive/folders/1__2STbNgL21xgViz9Hspxj9TLcO6guiK)
 - [Course Website](https://cs61a.org)
 - [Ed](https://edstem.org/us/courses/40197/discussion/)
+- [Slides](links.rouxl.es/slides)
 
 ---
 
@@ -40,79 +38,7 @@ Summer 2023 CS 61A uGSI
 - [Recursion](/docs/resources/su22/recursion)
 - [Studying Tips](/docs/resources/su22/studying)
 
-### [Discussion 12](https://cs61a.org/disc/disc12/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc12)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc12.pdf)
-- Solutions
-
-### [Discussion 11](https://cs61a.org/disc/disc11/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc11)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc11.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc11/)
-
-### [Discussion 10](https://cs61a.org/disc/disc10/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc10)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc10.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc10/)
-
-### [Discussion 09](https://cs61a.org/disc/disc09/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc09)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc09.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc09/)
-
-### [Discussion 08](https://cs61a.org/disc/disc08/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc08)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc08.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc08/)
-
-### [Discussion 07](https://cs61a.org/disc/disc07/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc07)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc07.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc07/)
-
-### [Discussion 06](https://cs61a.org/disc/disc06/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc06)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc06.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc06/)
-
-### [Discussion 05](https://cs61a.org/disc/disc05/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc05)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc05.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc05/)
-
-### [Discussion 04](https://cs61a.org/disc/disc04/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc04)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc04.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc04/)
-
-### [Discussion 03](https://cs61a.org/disc/disc03/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc03)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc03.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc03/)
-
-### [Discussion 02](https://cs61a.org/disc/disc02/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc02)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc02.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc02/)
-
-### [Discussion 01](https://cs61a.org/disc/disc01/)
-
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc01)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc01.pdf)
-- [Solutions](https://cs61a.org/disc/sol-disc01/)
-
 ### [Discussion 00](https://cs61a.org/disc/disc00/)
 
-- [Slides (`html`)](https://slides.rouxl.es/su23/disc00)
-- [Slides (`pdf`)](https://slides.rouxl.es/docs/su23/disc00.pdf)
+- [Slides (Wednesday)](https://docs.google.com/presentation/d/1LuYt--c5UOMUrUf1hVvhHhfLInxJkmvh936H1ONbg90/edit?usp=sharing)
+- [Slides (Thursday)](https://docs.google.com/presentation/d/1LuYt--c5UOMUrUf1hVvhHhfLInxJkmvh936H1ONbg90/edit?usp=sharing)
