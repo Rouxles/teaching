@@ -37,7 +37,7 @@ Fall 2023 CS 61A uGSI
 - [Recursion](/docs/resources/su22/recursion)
 - [Studying Tips](/docs/resources/su22/studying)
 
-### [Discussion 00](https://cs61a.org/disc/disc00/)
+### [Discussion 01](https://cs61a.org/disc/disc01/)
 
 - [Slides (Thursday)](https://docs.google.com/presentation/d/1w0aQ3SoLSbkNR9ikG943mFhH1aX70MbQyEzI6C0rr5w/edit?usp=sharing)
 
