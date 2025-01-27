@@ -31,4 +31,4 @@ Spring 2025 CS 61C
 
 ## Discussion 01
 
-- [Slides](https://docs.google.com/presentation/d/1w0aQ3SoLSbkNR9ikG943mFhH1aX70MbQyEzI6C0rr5w/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1UTX_ezAhnaaM-x8bb0Z6cAbEf02sThmSV9IWkwW7X6Y/edit?usp=sharing)
