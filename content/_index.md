@@ -29,6 +29,8 @@ Spring 2025 CS 61C
 
 ---
 
-## Discussion 01
+## Discussion Groups
 
-- [Slides](https://docs.google.com/presentation/d/1UTX_ezAhnaaM-x8bb0Z6cAbEf02sThmSV9IWkwW7X6Y/edit?usp=sharing)
+Please find them [here](https://docs.google.com/document/d/1l2HYwB_d0xocVH1bY--oihXf_zsVsV9avtTtZtniXao/edit?tab=t.0).
+
+If you cannot access the document, please let me know during discussion.
